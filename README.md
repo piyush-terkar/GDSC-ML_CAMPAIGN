@@ -1,6 +1,11 @@
 # GDSC-ML_CAMPAIGN
 Reference repository for GDSC MMCOE ML campaign
 
+# TF Setup
+```
+pip install -r requirements.txt
+```
+
 # COCO Dataset and Pycoco introductory Notebook
 https://colab.research.google.com/drive/175yEhB7nTLmQez47cSxFfpmnj77slW-E
 
